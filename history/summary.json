@@ -22,19 +22,19 @@
     "url": "https://www.sacrun.com/",
     "icon": "https://favicons.githubusercontent.com/www.sacrun.com",
     "slug": "sacrun-sac",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 657,
-    "timeWeek": 322,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 279,
+    "timeDay": 617,
+    "timeWeek": 354,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2022-03-02": 1
+      "2022-03-02": 10
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://revista.sacrun.com/",
     "icon": "https://favicons.githubusercontent.com/revista.sacrun.com",
     "slug": "sacrun-sac-revistas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 437,
-    "timeWeek": 193,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 186,
+    "timeDay": 456,
+    "timeWeek": 228,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 10
     }
   },
   {
