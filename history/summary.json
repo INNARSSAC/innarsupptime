@@ -22,10 +22,10 @@
     "url": "https://www.sacrun.com/",
     "icon": "https://favicons.githubusercontent.com/www.sacrun.com",
     "slug": "sacrun-sac",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 265,
@@ -33,14 +33,16 @@
     "timeWeek": 322,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 1
+    }
   },
   {
     "name": "Sacrun SAC Revistas",
     "url": "https://revista.sacrun.com/",
     "icon": "https://favicons.githubusercontent.com/revista.sacrun.com",
     "slug": "sacrun-sac-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 193,
     "timeMonth": 173,
     "timeYear": 173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "INNARS",
