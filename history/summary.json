@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.44%",
     "uptimeDay": "98.64%",
-    "uptimeWeek": "99.07%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "98.44%",
     "time": 276,
@@ -67,7 +67,7 @@
     "url": "https://www.innars.com",
     "icon": "https://favicons.githubusercontent.com/www.innars.com",
     "slug": "innars",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -78,7 +78,9 @@
     "timeWeek": 128,
     "timeMonth": 143,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-11": 0
+    }
   },
   {
     "name": "Google",
