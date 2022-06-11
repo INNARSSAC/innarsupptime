@@ -35,10 +35,10 @@
     "url": "https://www.sacrun.com/",
     "icon": "https://favicons.githubusercontent.com/www.sacrun.com",
     "slug": "sacrun-sac",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
@@ -46,16 +46,18 @@
     "timeWeek": 278,
     "timeMonth": 310,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-11": 1
+    }
   },
   {
     "name": "Sacrun SAC Revistas",
     "url": "https://revista.sacrun.com/",
     "icon": "https://favicons.githubusercontent.com/revista.sacrun.com",
     "slug": "sacrun-sac-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -64,7 +66,9 @@
     "timeWeek": 159,
     "timeMonth": 193,
     "timeYear": 163,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-11": 0
+    }
   },
   {
     "name": "INNARS",
@@ -72,18 +76,18 @@
     "icon": "https://favicons.githubusercontent.com/www.innars.com",
     "slug": "innars",
     "status": "down",
-    "uptime": "50.31%",
+    "uptime": "50.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.31%",
+    "uptimeYear": "50.00%",
     "time": 154,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-06-11": 56,
+      "2022-06-11": 1127,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
       "2022-06-08": 1440,
