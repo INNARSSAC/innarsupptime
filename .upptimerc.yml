@@ -15,6 +15,8 @@ sites:
     url: https://www.google.com
   - name: Discord
     url: https://discord.com/
+  - name: Paisajista
+    url: https://paisajistapicanteria.com
     
 assignees:
   - drandredev
