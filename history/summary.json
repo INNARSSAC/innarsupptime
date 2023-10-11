@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2023-10-11": 942,
+      "2023-10-11": 955,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -423,7 +423,7 @@
     "timeMonth": 0,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2023-10-11": 943,
+      "2023-10-11": 955,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -791,19 +791,19 @@
     "url": "https://discord.com/",
     "icon": "https://icons.duckduckgo.com/ip3/discord.com.ico",
     "slug": "discord",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 96,
-    "timeWeek": 87,
-    "timeMonth": 74,
+    "timeDay": 116,
+    "timeWeek": 95,
+    "timeMonth": 76,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2023-10-11": 0
+      "2023-10-11": 12
     }
   },
   {
@@ -823,7 +823,7 @@
     "timeMonth": 0,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2023-10-11": 943,
+      "2023-10-11": 955,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
