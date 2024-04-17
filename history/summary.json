@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-17": 45,
+      "2024-04-17": 195,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
@@ -388,27 +388,29 @@
     "url": "https://www.sacrun.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sacrun.com.ico",
     "slug": "sacrun-sac",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 413,
+    "time": 412,
     "timeDay": 368,
     "timeWeek": 328,
     "timeMonth": 357,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-17": 0
+    }
   },
   {
     "name": "Sacrun SAC Revistas",
     "url": "https://revista.sacrun.com/",
     "icon": "https://icons.duckduckgo.com/ip3/revista.sacrun.com.ico",
     "slug": "sacrun-sac-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "98.15%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -417,7 +419,9 @@
     "timeWeek": 168,
     "timeMonth": 181,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-17": 0
+    }
   },
   {
     "name": "INNARS",
@@ -436,7 +440,7 @@
     "timeMonth": 0,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2024-04-17": 45,
+      "2024-04-17": 195,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
@@ -829,14 +833,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.36%",
+    "uptimeYear": "24.33%",
     "time": 268,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 270,
     "dailyMinutesDown": {
-      "2024-04-17": 45,
+      "2024-04-17": 195,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
