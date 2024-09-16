@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-16": 60,
+      "2024-09-16": 128,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -388,9 +388,9 @@
     "url": "https://www.sacrun.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.sacrun.com.ico",
     "slug": "sacrun-sac",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -400,6 +400,7 @@
     "timeMonth": 411,
     "timeYear": 414,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-04-19": 110,
       "2024-04-17": 152
     }
@@ -409,9 +410,9 @@
     "url": "https://revista.sacrun.com/",
     "icon": "https://icons.duckduckgo.com/ip3/revista.sacrun.com.ico",
     "slug": "sacrun-sac-revistas",
-    "status": "up",
+    "status": "down",
     "uptime": "98.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -421,6 +422,7 @@
     "timeMonth": 378,
     "timeYear": 229,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-04-19": 110,
       "2024-04-17": 151
     }
@@ -442,7 +444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-16": 60,
+      "2024-09-16": 129,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
@@ -866,7 +868,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-16": 60,
+      "2024-09-16": 129,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
       "2024-09-13": 1440,
