@@ -10,7 +10,7 @@ sites:
   - name: Sacrun SAC Revistas
     url: https://revista.sacrun.com/
   - name: INNARS
-    url: https://www.innars.com
+    url: https://www.innovuarts.com
   - name: Google
     url: https://www.google.com
   - name: Discord
@@ -26,9 +26,9 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.innars.com
+  cname: status.innovuarts.com
   # baseUrl: /your-repo-name
-  logoUrl: https://www.innars.com/static/local/img/new_img1/INNARS_negro.png
+  logoUrl: https://www.innovuarts.com/static/local/img/new_img1/INNARS_negro.png
   name: INNARS STATUS OF SERVICES
   introTitle: "Conoce el estado de nuestros servicios en caso exista una ocurrencia."
   introMessage: Nuestro equipo está monitoreando en **tiempo real** el estado de nuestros servidores y servicios.
