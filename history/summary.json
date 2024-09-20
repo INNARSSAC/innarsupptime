@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.comeraltoque.com.ico",
     "slug": "comer-al-toque",
     "status": "down",
-    "uptime": "27.20%",
+    "uptime": "27.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-19": 1055,
+      "2024-09-20": 57,
+      "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
@@ -379,8 +380,7 @@
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
-      "2023-09-22": 1440,
-      "2023-09-21": 1440
+      "2023-09-22": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "97.79%",
     "uptimeYear": "99.77%",
     "time": 414,
-    "timeDay": 418,
-    "timeWeek": 396,
-    "timeMonth": 393,
+    "timeDay": 409,
+    "timeWeek": 362,
+    "timeMonth": 390,
     "timeYear": 413,
     "dailyMinutesDown": {
       "2024-09-19": 148,
@@ -420,8 +420,8 @@
     "uptimeYear": "99.77%",
     "time": 241,
     "timeDay": 987,
-    "timeWeek": 831,
-    "timeMonth": 537,
+    "timeWeek": 798,
+    "timeMonth": 536,
     "timeYear": 247,
     "dailyMinutesDown": {
       "2024-09-19": 148,
@@ -437,16 +437,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.innovuarts.com.ico",
     "slug": "innars",
     "status": "up",
-    "uptime": "8.94%",
-    "uptimeDay": "58.15%",
-    "uptimeWeek": "8.31%",
-    "uptimeMonth": "0.00%",
+    "uptime": "8.97%",
+    "uptimeDay": "88.86%",
+    "uptimeWeek": "12.69%",
+    "uptimeMonth": "1.01%",
     "uptimeYear": "0.00%",
-    "time": 291,
-    "timeDay": 1167,
-    "timeWeek": 1167,
-    "timeMonth": 1167,
-    "timeYear": 1167,
+    "time": 325,
+    "timeDay": 1162,
+    "timeWeek": 1162,
+    "timeMonth": 1162,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2024-09-19": 218,
       "2024-09-18": 1440,
@@ -811,8 +811,7 @@
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
-      "2023-09-22": 1440,
-      "2023-09-21": 1440
+      "2023-09-22": 1440
     }
   },
   {
@@ -827,9 +826,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 111,
-    "timeDay": 117,
-    "timeWeek": 94,
-    "timeMonth": 99,
+    "timeDay": 99,
+    "timeWeek": 93,
+    "timeMonth": 97,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2024-05-01": 34
@@ -846,10 +845,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 76,
-    "timeDay": 82,
-    "timeWeek": 101,
-    "timeMonth": 99,
+    "time": 77,
+    "timeDay": 93,
+    "timeWeek": 105,
+    "timeMonth": 97,
     "timeYear": 77,
     "dailyMinutesDown": {
       "2023-10-11": 27
@@ -861,18 +860,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/paisajistapicanteria.com.ico",
     "slug": "paisajista",
     "status": "down",
-    "uptime": "23.83%",
+    "uptime": "23.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 260,
+    "time": 263,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-19": 1055,
+      "2024-09-20": 58,
+      "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
@@ -1235,8 +1235,7 @@
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
-      "2023-09-22": 1440,
-      "2023-09-21": 1440
+      "2023-09-22": 1440
     }
   }
 ]
